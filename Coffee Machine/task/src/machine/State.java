@@ -1,0 +1,11 @@
+package machine;
+
+public enum State {
+
+    CHOOSING_ACTION,
+    CHOOSING_COFFEE,
+    FILLING_WATER,
+    FILLING_MILK,
+    FILLING_COFFEE_BEANS,
+    FILLING_DISPOSABLE_CUPS
+}
